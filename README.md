@@ -1,5 +1,4 @@
-# Lab 2
-
+# Lab 1
 # Task 1: Choosing an Open Dataset
 The dataset used in this project is the Student Performance dataset obtained from the UCI Machine Learning Repository. The dataset is tabular and available in CSV format, making it suitable for machine learning tasks such as prediction and pattern discovery. It contains demographic, social, and academic information about secondary school students.
 
